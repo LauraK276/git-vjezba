@@ -1,1 +1,2 @@
 Ovo je prva verzija datoteke.
+Nova linija u datoteci.
