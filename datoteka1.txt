@@ -1,4 +1,5 @@
 Ovo je prva verzija datoteke.
 Nova linija u datoteci.
+Ova promjena je iz glavne grane.
 Nova promjena u razvojnoj grani.
 Ova promjena je iz razvojne grane.
